@@ -14,6 +14,8 @@ In addition to general data collection practices mentioned previously, the app h
     * Scheduled date and time for communication
     * Lead status
     * Create New Leads.
+While creating leads we collect,
+* Name, phone number and other details collected with lead's permission for the app functionality and customisation.
 1.3 Phone Calls
 * The app enables sales team members to make phone calls to their leads directly from within the app.
 * No call data (such as call duration, call status, or call recordings) is stored or logged by the app. It simply facilitates the calling function without retaining any phone call details.
@@ -32,6 +34,7 @@ The app includes a "Send Payment" button that allows the user to request payment
     * Payment date and amount.
 1.6 Reminder
 * Users can set reminders to follow up leads, app alerts user with a push notification and pop up inside the app.
+* Device ID or Identifiers – This will cover the collection of FCM tokens, as they are considered device-specific identifiers.
 2. How We Use Your Information
 The information collected by the app is used for the following purposes:
 * To allow users to access the app using their admin-provided login credentials.
