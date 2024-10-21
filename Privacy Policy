@@ -1,0 +1,42 @@
+Privacy Policy
+Effective Date: 21/10/2024
+
+Your privacy is important to us. This Privacy Policy explains how we collects, uses, discloses, and protects your information when you use our Customer Relationship Management (CRM) mobile application ("App").
+By using the App, you agree to the collection and use of information in accordance with this policy. 
+
+1. Information We Collect
+In addition to general data collection practices mentioned previously, the app handles the following functionalities:
+1.1 Login Information
+* Sales team members log in using credentials created by the admin. No account creation is done through the app, and login credentials are managed by the organization’s admin team.
+1.2 Scheduled Leads Data
+* Sales team members can view the scheduled leads assigned to them, including:
+    * Lead name and contact details
+    * Scheduled date and time for communication
+    * Lead status
+    * Create New Leads.
+1.3 Phone Calls
+* The app enables sales team members to make phone calls to their leads directly from within the app.
+* No call data (such as call duration, call status, or call recordings) is stored or logged by the app. It simply facilitates the calling function without retaining any phone call details.
+1.4 Payments
+The app includes a "Send Payment" button that allows the user to request payment from a lead. When clicked:
+* A request is sent to the backend to generate a WhatsApp message containing the payment request.
+* The app does not collect, store, or process any payment information.
+* The payment request is sent via WhatsApp to the lead’s WhatsApp number, but no payment details or payment services are integrated directly within the app.
+* Users are not asked for any financial information within the app.
+* When a payment link is available in payment history, it will be displayed to the sales team member in the app.
+* If the user clicks the payment link, the link will open in the device's default web browser to view payment receipt.
+* The app does not process payments directly or collect any sensitive financial information. 
+1.5 Payment History
+* Users can view the payment history of leads, which includes:
+    * Payment status (e.g., pending, completed, or failed)
+    * Payment date and amount.
+2. How We Use Your Information
+The information collected by the app is used for the following purposes:
+* To allow users to access the app using their admin-provided login credentials.
+* To display scheduled leads and relevant details for sales team members.
+* To facilitate phone calls to leads without storing call details.
+* To display available payment links, which are opened in the device’s browser for displaying receipt.
+* To allow users to view lead payment history for follow-up or reporting purposes.
+3. Data Sharing and Disclosure
+We do not store or share phone call details or payment information within the app. However, we may share relevant information in the following circumstances:
+* Admin Users: Admins may access lead status and payment history to monitor and manage sales team activities.
