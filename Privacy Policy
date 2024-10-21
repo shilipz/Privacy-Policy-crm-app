@@ -30,6 +30,8 @@ The app includes a "Send Payment" button that allows the user to request payment
 * Users can view the payment history of leads, which includes:
     * Payment status (e.g., pending, completed, or failed)
     * Payment date and amount.
+1.6 Reminder
+* Users can set reminders to follow up leads, app alerts user with a push notification and pop up inside the app.
 2. How We Use Your Information
 The information collected by the app is used for the following purposes:
 * To allow users to access the app using their admin-provided login credentials.
