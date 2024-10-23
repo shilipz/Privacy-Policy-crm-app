@@ -31,6 +31,7 @@ The app includes a "Send Payment" button that allows the user to request payment
 * Users can view the payment history of leads, which includes:
     * Payment status (e.g., pending, completed, or failed)
     * Payment date and amount.
+* Users can upload the screenshot of leads payment if available, from the gallery.
 1.6 Reminder
 * Users can set reminders to follow up leads, app alerts user with a push notification and pop up inside the app.
 * Device ID or Identifiers – This will cover the collection of FCM tokens, as they are considered device-specific identifiers.
